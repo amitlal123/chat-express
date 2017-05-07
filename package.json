@@ -1,6 +1,6 @@
 {
   "name": "chat-express",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A messaging chat Angular and Node.js app",
   "main": "server.js",
   "scripts": {
