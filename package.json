@@ -1,5 +1,5 @@
 {
-  "name": "chatty",
+  "name": "chat-express",
   "version": "1.0.0",
   "description": "A messaging chat Angular and Node.js app",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amitlal123/chatty.git"
+    "url": "git+https://github.com/amitlal123/chat-express.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amitlal123/chatty/issues"
+    "url": "https://github.com/amitlal123/chat-express/issues"
   },
-  "homepage": "https://github.com/amitlal123/chatty#readme",
+  "homepage": "https://github.com/amitlal123/chat-express#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0"

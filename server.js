@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 app.listen(port, function(){
   console.log(`Listening on port ${port}`);
 });
-
+// For CORS
 app.options('/', function(req, res, next){
   res.status(200).set({
     'Content-Type': 'application/json',
